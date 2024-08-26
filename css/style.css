@@ -1,0 +1,54 @@
+.header{
+	height: 100px;
+	background: red;
+}
+.container{
+	overflow: hidden;
+}
+.blog{
+	float: left;
+	width: 60%;
+	height: 150px;
+	background: greenyellow;
+}
+.contact{
+	float: right;
+	width: 40%;
+	height: 150px;
+	background: gray;
+}
+.item1{
+	float: left;
+	width: 33.33%;
+	height: 150px;
+}
+.aqua{
+	background: aqua;
+}
+.red{
+	background: red;
+}
+.black{
+	background: black;
+}
+.item{
+	float: left;
+	width: 25%;
+	height: 150px;
+}
+.blue{
+	background: blue;
+}
+.green{
+	background: green;
+}
+.gold{
+	background: gold;
+}
+.indianred{
+	background: indianred;
+}
+.footer{
+	height: 100px;
+	background: blueviolet;
+}
